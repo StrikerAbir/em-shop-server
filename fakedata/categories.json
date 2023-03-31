@@ -1,0 +1,17 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Table",
+        "image":"https://ibb.co/DzYhPyF"
+    },
+    {
+        "category_id":2,
+        "category_name":"Sofa",
+        "image":"https://ibb.co/zSfprg3"
+    },
+    {
+        "category_id":3,
+        "category_name":"Chair",
+        "image":"https://ibb.co/hBxTBGJ"
+    }
+]
